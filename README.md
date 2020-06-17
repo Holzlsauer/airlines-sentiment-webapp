@@ -23,7 +23,7 @@ $ pip install matplotlib pandas plotly==4.8.1 streamlit wordcloud
 
 
 [Create Interactive Dashboards with Streamlit and Python]: https://www.coursera.org/projects/interactive-dashboards-streamlit-python
-[airlines-sentiment-preview]: https://user-images.githubusercontent.com/22153172/84842926-e1145380-b01c-11ea-9def-3decf8a60644.gif
+[airlines-sentiment-preview]: https://user-images.githubusercontent.com/22153172/84892901-c8378c80-b074-11ea-82ab-35da98353839.gif
 [matplotlib]: https://matplotlib.org/
 [Pandas]: https://pandas.pydata.org/
 [Plotly]: https://plotly.com/
