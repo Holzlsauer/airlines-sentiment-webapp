@@ -5,6 +5,9 @@ import streamlit as st
 
 from wordcloud import WordCloud, STOPWORDS
 
+# [deprecation]
+st.set_option('deprecation.showPyplotGlobalUse', False)
+
 # Data src
 DATA_URL = ("data/tweets.csv")
 
